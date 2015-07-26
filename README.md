@@ -75,10 +75,9 @@ g) Place the executable (qrencode.exe) and all the needed components inside a ne
 <br>
 
 ##### Downloading the QREncode Source Code:
-Please, get the source code form the Kentaro Fukuchi website: http://fukuchi.org/works/qrencode/
+Get the source code from the Kentaro Fukuchi website: http://fukuchi.org/works/qrencode/
 
 <br>
-
 ##### Install CygWin (32 bits) on Windows
 To make things simple, I did install CygWin including the following 2 CATEGORIES of soft:
 
@@ -88,6 +87,4 @@ To make things simple, I did install CygWin including the following 2 CATEGORIES
 
 These 2 are enough to compile the QREncode.
 <br>
-
-
 
