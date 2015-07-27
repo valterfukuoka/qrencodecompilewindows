@@ -1,4 +1,4 @@
-### QREencode Compilation on Windows (32 bits)
+### QREncode Standalone (portable) Compilation on Windows (32 bits)
 Executable runs on 32 bits and 64 bits.
 
 To compile, requires the CygWin Environment (Unix/Linux Environment on Windows).
@@ -86,5 +86,9 @@ To make things simple, I did install CygWin including the following 2 CATEGORIES
 > Devel
 
 These 2 are enough to compile the QREncode.
+
 <br>
+##### How to compile standalone (portable) on Linux
+
+https://github.com/valterfukuoka/qrencodecompilelinuxportable
 
