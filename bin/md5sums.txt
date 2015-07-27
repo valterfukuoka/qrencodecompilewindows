@@ -1,0 +1,5 @@
+3d12b83b9651d973737cccdc31cbd3cf  cyggcc_s-1.dll
+e70b1b4acb67d9077a5ef01ece6a25ef  cygpng16-16.dll
+b25baaac7835b113c1dae5c899e7b7d3  cygwin1.dll
+eb37ba8f0b61b1e9d3e868488587034d  cygz.dll
+b0bbf8a62ee6de096226047335528905  qrencode.exe
